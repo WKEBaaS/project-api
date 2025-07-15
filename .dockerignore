@@ -1,0 +1,14 @@
+# Git
+.git
+.gitignore
+
+# IDE
+.idea
+*.iml
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Local env
+.env
